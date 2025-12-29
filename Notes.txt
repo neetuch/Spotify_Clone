@@ -1,0 +1,17 @@
+//-------------------------CSS Project-------------------------------
+
+        Learn how to make project - Spotify Clone
+
+    - copy main title of a main website
+    - website has three parts - left, main, footer
+    >overflow : hidden, visible, auto, clip, scroll, hidden visible 
+            - this property is used for overflow contents
+
+    > flexbox - will be used to style all div in main content
+
+
+    >Appearance property 
+     appearnce : none        //for default look 
+     cursor: pointer
+
+     bootstrap is used more than tailwind css
